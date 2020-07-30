@@ -1,1 +1,1 @@
-{"V_baru":"1","Link":"https://google.com","ketegori":"Update","depkribsi":"kosong"}
+{"V_baru":"2","Link":"https://google.com","ketegori":"Update","depkribsi":"kosong"}
